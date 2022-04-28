@@ -1,0 +1,11 @@
+git config -- configure the username and email
+git init  -- initialize a local Git repo
+git add -- Add one or more files to staging area
+git diff -- view the changes made to the file
+git commit -- commit changes to head but not to the remote repo
+git reset -- Undo local changes to the state of a Git repo
+git status -- Displays the state of the working dir and staging area
+git merge -- Merge a branch init an active branch
+git push -- upload content from local repo to a remote repo
+git pull -- Fetch and download content from a remote repo
+
